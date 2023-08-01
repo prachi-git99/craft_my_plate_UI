@@ -1,0 +1,1 @@
+// const socialIconList2=[icEmailLogo];
